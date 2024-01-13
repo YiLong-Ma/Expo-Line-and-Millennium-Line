@@ -59,7 +59,7 @@ const Map = () => {
             center={[49.24966, -123.00934]} zoom={14} scrollWheelZoom={true}
         >
             <TileLayer
-                attribution='&copy; <a href=""> By Elijah</a> contributors'
+                attribution='&copy; <a href="https://github.com/YiLong-Ma/Expo-Line-and-Millennium-Line"> By Elijah</a> contributors'
                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
             />
             <Marker position={[49.24966, -123.00934]} icon={icon}>
